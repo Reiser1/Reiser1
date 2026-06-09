@@ -106,6 +106,5 @@ Below are repositories for the programming units I have taken so far.
   <img alt="Zaki's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Reiser1&show_icons=true&theme=transparent">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiser1&layout=compact&langs_count=8">
 </div>
-```
 
 
