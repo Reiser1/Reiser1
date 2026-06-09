@@ -53,7 +53,7 @@ Below are repositories for the programming units I have taken so far.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/PDI">
           <abbr title="Program Design and Implementation">PDI</abbr>
         </a>
       </td>
@@ -62,35 +62,35 @@ Below are repositories for the programming units I have taken so far.
           <abbr title="Unix and C Programming">UCP</abbr>
         </a>
         <br>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/DSA">
           <abbr title="Data Structures and Algorithms">DSA</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/OS">
           <abbr title="Operating Systems">OS</abbr>
         </a>
         <br>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/ML">
           <abbr title="Machine Learning">ML</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/MAD">
           <abbr title="Mobile Application Development">MAD</abbr>
         </a>
         <br>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/DS">
           <abbr title="Database Systems">DS</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/OOSE">
           <abbr title="Object Oriented Software Engineering">OOSE</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Reiser1/">
+        <a href="https://github.com/Reiser1/MP">
           <abbr title="Machine Perception">MP</abbr>
         </a>
       </td>
