@@ -8,24 +8,24 @@ I'm Zaki Rizvi, 3rd Year Advanced Comptuer Science Student at Curtin University.
 
 ## Project
 
-[![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-%23FFFFFF?style=flat&logo=python&logoColor=3670A0)](https://github.com/)
+[![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)](https://github.com/Reiser1/)
+[![Python](https://img.shields.io/badge/Python-%23FFFFFF?style=flat&logo=python&logoColor=3670A0)](https://github.com/Reiser1/)
 
 Add Tools & Languages used
 
 Add Description
 
-<br> [Link to project `</>`](https://github.com/) <br>
+<br> [Link to project `</>`](https://github.com/Reiser1/) <br>
 
 
 ## 🎓 Computer Science Degree
 
-[![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)](https://github.com/)
-[![C/C++](https://img.shields.io/badge/C/C++-%23FFFFFF.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)](https://github.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%23FFFFFF.svg?style=flat&logo=kotlin&logoColor=ac29ec)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-%23FFFFFF?style=flat&logo=python&logoColor=3670A0)](https://github.com/)
-[![Android](https://img.shields.io/badge/Android-%23FFFFFF?style=flat&logo=android)](https://github.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=flat&logo=opencv&logoColor=darkgreen)](https://github.com/)
+[![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)](https://github.com/Reiser1/)
+[![C/C++](https://img.shields.io/badge/C/C++-%23FFFFFF.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)](https://github.com/Reiser1/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%23FFFFFF.svg?style=flat&logo=kotlin&logoColor=ac29ec)](https://github.com/Reiser1/)
+[![Python](https://img.shields.io/badge/Python-%23FFFFFF?style=flat&logo=python&logoColor=3670A0)](https://github.com/Reiser1/)
+[![Android](https://img.shields.io/badge/Android-%23FFFFFF?style=flat&logo=android)](https://github.com/Reiser1/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=flat&logo=opencv&logoColor=darkgreen)](https://github.com/Reiser1/)
 
 Below are repositories for the programming units I have taken so far.
 
@@ -53,44 +53,44 @@ Below are repositories for the programming units I have taken so far.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Program Design and Implementation">PDI</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Unix and C Programming">UCP</abbr>
         </a>
         <br>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Data Structures and Algorithms">DSA</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Operating Systems">OS</abbr>
         </a>
         <br>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Machine Learning">ML</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Mobile Application Development">MAD</abbr>
         </a>
         <br>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Database Systems">DS</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Object Oriented Software Engineering">OOSE</abbr>
         </a>
       </td>
       <td>
-        <a href="https://github.com/">
+        <a href="https://github.com/Reiser1/">
           <abbr title="Machine Perception">MP</abbr>
         </a>
       </td>
