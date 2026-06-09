@@ -35,14 +35,12 @@ Below are repositories for the programming units I have taken so far.
       <th colspan="6">Curtin University • BSc Computer Science</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td colspan="2">2024 • 1st Year</td>
       <td colspan="2">2025 • 2nd Year</td>
       <td colspan="2">2026 • 3rd Year</td>
     </tr>
-
     <tr>
       <td>Sem 1</td>
       <td>Sem 2</td>
@@ -51,65 +49,50 @@ Below are repositories for the programming units I have taken so far.
       <td>Sem 1</td>
       <td>Sem 2</td>
     </tr>
-
     <tr>
-      <!-- 2024 Semester 1 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Program Design and Implementation">PDI</abbr>
         </a>
       </td>
-
-      <!-- 2024 Semester 2 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Unix and C Programming">UCP</abbr>
         </a>
         <br>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/">
           <abbr title="Data Structures and Algorithms">DSA</abbr>
         </a>
       </td>
-
-      <!-- 2025 Semester 1 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Operating Systems">OS</abbr>
         </a>
         <br>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/">
           <abbr title="Machine Learning">ML</abbr>
         </a>
       </td>
-
-      <!-- 2025 Semester 2 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Mobile Application Development">MAD</abbr>
         </a>
         <br>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/">
           <abbr title="Database Systems">DS</abbr>
         </a>
       </td>
-
-      <!-- 2026 Semester 1 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Object Oriented Software Engineering">OOSE</abbr>
         </a>
       </td>
-
-      <!-- 2026 Semester 2 -->
-      <td rowspan="3">
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <td>
+        <a href="https://github.com/">
           <abbr title="Machine Perception">MP</abbr>
         </a>
       </td>
     </tr>
-
-    <tr></tr>
-    <tr></tr>
   </tbody>
 </table>
 
